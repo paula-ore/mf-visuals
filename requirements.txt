@@ -1,1 +1,3 @@
-Hi
+plotly express
+pandas
+numpy

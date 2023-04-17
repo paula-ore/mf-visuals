@@ -4,3 +4,4 @@ numpy
 dash
 dash_bootstrap_components
 gunicorn
+openpyxl

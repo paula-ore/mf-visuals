@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.LITERA])
-app.title = 'MF Data Analysis'
+server = app.server
 
 #---------------------------------------------------------------------
 # Import files
